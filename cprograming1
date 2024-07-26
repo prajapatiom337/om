@@ -1,0 +1,10 @@
+
+#include <stdio.h>
+int main()
+{
+	printf(("welcome to my profile\n"));
+	printf(("my name is om prajapati\ni am 18 year old\none of my hobby is do somthing interesting always\nmy favorite game is football\n"));
+	printf(("i am from shela/nsouthboapl/nahemadabad/ngujarat/n380058\n"));
+	printf(("my neighbor name is dave family\n"));
+	printf(("my coolege name is shanti bussiness school\ni am studing b.voc it in first year"));
+}
